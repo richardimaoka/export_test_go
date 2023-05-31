@@ -1,4 +1,4 @@
-package sublib
+package sub_test
 
 import (
 	"testing"
